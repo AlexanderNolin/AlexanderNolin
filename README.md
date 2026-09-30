@@ -13,4 +13,5 @@ automation and monitoring tooling in Python.
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/alexander-nolin-cs)
+ | 
 [email](alex.nolin.cs@gmail.com)
