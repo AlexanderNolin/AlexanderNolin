@@ -10,7 +10,7 @@ automation and monitoring tooling in Python.
 
 ### Featured projects
 - **PyProbe**: Python IP probing tool with structured, readable output
-- (next project)
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/alexander-nolin-cs)
+[email](alex.nolin.cs@gmail.com)
