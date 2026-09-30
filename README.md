@@ -1,7 +1,3 @@
-# Alexander Nolin
-IT administrator and security-focused engineer. I build network
-automation and monitoring tooling in Python.
-
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B_CE-c8102e?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
