@@ -1,16 +1,16 @@
-## Hi there 👋
+# Alexander Nolin
+IT administrator and security-focused engineer. I build network
+automation and monitoring tooling in Python.
 
-<!--
-**AlexanderNolin/AlexanderNolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B_CE-c8102e?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+### Tools
+![Skills](https://skillicons.dev/icons?i=python,linux,bash,git,docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **PyProbe**: Python IP probing tool with structured, readable output
+- (next project)
+
+### Contact
+[LinkedIn](https://linkedin.com/in/alexander-nolin-cs)
