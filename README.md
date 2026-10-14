@@ -6,3 +6,4 @@
 ### Featured projects
 - **PyProbe**: Python IP probing tool with structured, readable output
 - **PyNet**: Python project for messing with python automation mainly using ContainerLabs and NetMiko
+- **PyJobScraper**: Python project for scraping job board for jobs, makes it where job board algorithms can't make you miss jobs. Uses mainly job_spy.
