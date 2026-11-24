@@ -1,5 +1,5 @@
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B_CE-c8102e?style=flat)
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/badges/9ccba205-5874-4e71-9468-4a8fdd3a4b69/public_url)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B_CE-c8102e?style=flat)](https://www.credly.com/badges/fcb8044e-57a5-4f50-805d-3d18c32b8800/public_url)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![Skills](https://skillicons.dev/icons?i=python,linux,windows,bash,git,docker,obsidian,pycharm)
